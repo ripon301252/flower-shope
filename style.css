@@ -64,3 +64,189 @@ body{
 .img-content img{
     width: 460px;
 }
+
+
+/* Featured flower section */
+.flower-content{
+    text-align: center;
+    margin-top: 100px;
+}
+.flower-content h1{
+    margin-bottom: 20px;
+}
+
+.feature-flower-container{
+    width: 960px;
+    height: 432px;
+    /* border: 2px solid red; */
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+/* pink */
+.pink{
+    width: 300px;
+    height: 350px;
+    /* border: 2px solid red; */
+    background-color: #f2dee8;
+    border-radius: 50% 50% 0 0;
+}
+
+.pink img{
+    width: 200px;
+    margin-left: 55px;
+    margin-top: 74px;
+}
+.text-pink{
+    margin-left: 104px;
+    margin-top: 10px;
+}
+.text-pink a{
+    color: #000000;
+}
+
+/* golap */
+.golap{
+    width: 300px;
+    height: 350px;
+    /* border: 2px solid red; */
+    background-color: #daf0f1;
+    border-radius: 50% 50% 0 0;
+}
+
+.golap img{
+    width: 200px;
+    margin-left: 70px;
+    margin-top: 115px;
+}
+.text-golap{
+    margin-left: 104px;
+    margin-top: 10px;
+}
+.text-golap a{
+    color: #000000;
+}
+
+
+/* lotas */
+.lotas{
+    width: 300px;
+    height: 350px;
+    /* border: 2px solid red; */
+    background-color: #e4ecdc;
+    border-radius: 50% 50% 0 0;
+}
+
+.lotas img{
+    width: 200px;
+    margin-left: 65px;
+    margin-top: 49px;
+}
+.text-lotas{
+    margin-left: 104px;
+    margin-top: 10px;
+}
+.text-lotas a{
+    color: #000000;
+}
+
+
+/* portfolio section */
+.portfolio-contailer{
+    width: 960px;
+    height: 171px;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 68px;
+    background-color: #f4f4f4;
+    margin-bottom: 70px;
+}
+
+.port-img-1{
+    margin-left: 75px;
+    margin-bottom: 7px;
+}
+
+.port-img-2{
+    margin-left: 65px;
+    margin-bottom: 7px;
+}
+
+.port-img-3{
+    margin-left: 18px;
+    margin-bottom: 7px;
+}
+
+
+/* Hot Deal section */
+.hot-deal-container{
+    width: 1290px;
+    height: 374px;
+    /* border: 2px solid red; */
+    margin: 0 auto;
+    margin-top: 15px;
+    background-color: #fceef1;
+    padding-bottom: 160px;
+    display: flex;
+    margin-bottom: 30px;
+}
+
+
+.hot-deal-text-content{
+    width: 45%;
+    height: 580PX;
+    /* border: 2px solid red; */
+    margin: 50px; 
+    margin-right: 30px;
+    margin-left: 130px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+
+.hot-deal-text-content h1{
+    font-size: 32px;
+    font-weight: 900;
+    margin-bottom: 30px;
+    /* margin-right: 95px; */
+}
+
+.color-red{
+    color: red;
+}
+
+.hot-deal-text-content p{
+  font-size: 15px;
+  margin-bottom: 30px;
+  text-align: center;
+
+}
+.hot-deal-text-content button{
+   padding: 10px 20px;
+   background-color: #e55473;
+   border: none;
+   border-radius: 5px;
+   /* margin-right: 419px; */
+   
+}
+
+
+.hot-deal-img-content{
+    width: 45%;
+    height: 580PX;
+    /* border: 2px solid red; */
+    margin: 50px; 
+    margin-left: 30px;
+    
+}
+
+.img-content img{
+    width: 460px;
+}
